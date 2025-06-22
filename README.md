@@ -23,7 +23,7 @@ I am Karma Wangchuk, Lecturer, Information Technology Department, College of Sci
 - **🦜 Bhutanese Bird Detection** - [View on HuggingFace](https://huggingface.co/spaces/KarmaCST/KarmaCST-Bhutanese_Bird) (Annual University Research Grant)
 - **🖼️ Dzongkha Image Caption Generation** - [Demo Space](https://huggingface.co/spaces/KarmaCST/Image-Caption-to-Dzongkha)
 - **🌐 Dzongkha-English Translation** - [NLP Portal](https://nlp.cst.edu.bt/nmt/)
-<img align="right" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="400" height="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 ---
 
 ## 🌱 Currently Learning
