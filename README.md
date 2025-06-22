@@ -25,7 +25,7 @@
 ## 🌱 Currently Learning
 
 - **⚛️ Next.js** - For building modern web applications
-- **☁️ Microsoft Certified Professional (MCP)** - Cloud and AI certifications
+- **☁️ Model Context Protocol (MCP)
 - **🧠 Advanced NLP Techniques** - For low-resource languages like Dzongkha
 
 ---
