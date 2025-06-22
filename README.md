@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1200" height="300" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif">
+<img align="right" alt="coding" width="1200" height="200" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif">
 <h1 align="center">👋 Karma Wangchuk</h1>
 <h3 align="center">📚 Lecturer | 🤖 AI/ML Researcher</h3>
 <h4 align="center">Information Technology Department, College of Science and Technology, Royal University of Bhutan</h4>
