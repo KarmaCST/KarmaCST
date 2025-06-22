@@ -13,6 +13,10 @@
 
 ---
 
+## 💬 Ask Me About
+-I am Karma Wangchuk, Lecturer, Information Technology Department, College of Science and Technology, Royal University of Bhutan. I am passionate about leveraging Machine Learning, NLP, Computer Vision, IoT, and Big Data to contribute meaningfully to these fields.
+
+---
 ## 🔭 Current Projects
 
 - **🧠 Dzongkha Next Word Prediction** - Developing AI models for Dzongkha language processing
@@ -38,14 +42,6 @@
 
 ---
 
-## 💬 Ask Me About
-
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Computer Vision & Image Processing
-- Academic Research & Teaching Methodologies
-
----
 
 ## 📫 How to Reach Me
 
