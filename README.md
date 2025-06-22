@@ -13,8 +13,8 @@
 
 ---
 
-## 💬 Ask Me About
--I am Karma Wangchuk, Lecturer, Information Technology Department, College of Science and Technology, Royal University of Bhutan. I am passionate about leveraging Machine Learning, NLP, Computer Vision, IoT, and Big Data to contribute meaningfully to these fields.
+## About Me
+I am Karma Wangchuk, Lecturer, Information Technology Department, College of Science and Technology, Royal University of Bhutan. I am passionate about leveraging Machine Learning, NLP, Computer Vision, IoT, and Big Data technologies and contribute meaningfully to these fields.
 
 ---
 ## 🔭 Current Projects
