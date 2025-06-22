@@ -1,7 +1,7 @@
 <h1 align="center">👋 Karma Wangchuk</h1>
 <h3 align="center">📚 Lecturer | 🤖 AI/ML Researcher</h3>
 <h4 align="center">Information Technology Department, College of Science and Technology, Royal University of Bhutan</h4>
-<img align="right" alt="coding" width="300" height="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="coding" width="300" height="100" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=karmacst&label=Profile%20views&color=0e75b6&style=flat">
