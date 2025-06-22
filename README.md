@@ -1,5 +1,5 @@
 <h1 align="center">👋 Karma Wangchuk</h1>
-<h3 align="center">📚 Lecturer | 🤖 AI/ML Researcher | 🇧🇹 Passionate about Dzongkha NLP</h3>
+<h3 align="center">📚 Lecturer | 🤖 AI/ML Researcher</h3>
 <h4 align="center">Information Technology Department, College of Science and Technology, Royal University of Bhutan</h4>
 
 <p align="center">
@@ -41,7 +41,7 @@
 ## 💬 Ask Me About
 
 - Machine Learning & Deep Learning
-- Natural Language Processing (especially for Dzongkha)
+- Natural Language Processing
 - Computer Vision & Image Processing
 - Academic Research & Teaching Methodologies
 
@@ -132,5 +132,5 @@
 ---
 
 <p align="center">
-  <i>"Empowering Bhutan through technology and preserving our cultural heritage through NLP."</i>
+  <i>"Empowering Technology."</i>
 </p>
