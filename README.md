@@ -1,6 +1,7 @@
 <h1 align="center">👋 Karma Wangchuk</h1>
 <h3 align="center">📚 Lecturer | 🤖 AI/ML Researcher</h3>
 <h4 align="center">Information Technology Department, College of Science and Technology, Royal University of Bhutan</h4>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=karmacst&label=Profile%20views&color=0e75b6&style=flat">
@@ -17,9 +18,9 @@
 I am Karma Wangchuk, Lecturer, Information Technology Department, College of Science and Technology, Royal University of Bhutan. I am passionate about leveraging Machine Learning, NLP, Computer Vision, IoT, and Big Data technologies and contribute meaningfully to these fields.
 
 ---
-## 🔭 Current Projects
+## 🔭 Projects
 
-- **🧠 Dzongkha Next Word Prediction System** - Research Endownment Fund funded by Office of the Vice Chancellor, Royal University of Bhutan
+- **🧠 Dzongkha Next Word Prediction System** - Research Endownment Fund 2025-2026 funded by the Office of the Vice Chancellor, Royal University of Bhutan
 - **🦜 Bhutanese Bird Detection** - [View on HuggingFace](https://huggingface.co/spaces/KarmaCST/KarmaCST-Bhutanese_Bird) (Annual University Research Grant)
 - **🖼️ Dzongkha Image Caption Generation** - [Demo Space](https://huggingface.co/spaces/KarmaCST/Image-Caption-to-Dzongkha)
 - **🌐 Dzongkha-English Translation** - [NLP Portal](https://nlp.cst.edu.bt/nmt/)
