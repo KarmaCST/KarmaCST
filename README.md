@@ -19,7 +19,7 @@ I am Karma Wangchuk, Lecturer, Information Technology Department, College of Sci
 ---
 ## 🔭 Current Projects
 
-- **🧠 Dzongkha Next Word Prediction** - Developing AI models for Dzongkha language processing
+- **🧠 Dzongkha Next Word Prediction System** - Research Endownment Fund funded by Office of the Vice Chancellor, Royal University of Bhutan
 - **🦜 Bhutanese Bird Detection** - [View on HuggingFace](https://huggingface.co/spaces/KarmaCST/KarmaCST-Bhutanese_Bird) (Annual University Research Grant)
 - **🖼️ Dzongkha Image Caption Generation** - [Demo Space](https://huggingface.co/spaces/KarmaCST/Image-Caption-to-Dzongkha)
 - **🌐 Dzongkha-English Translation** - [NLP Portal](https://nlp.cst.edu.bt/nmt/)
@@ -35,10 +35,8 @@ I am Karma Wangchuk, Lecturer, Information Technology Department, College of Sci
 ---
 
 ## 📚 Academic & Research
-
-- **👨‍🏫 Lecturer** at College of Science and Technology, Royal University of Bhutan
-- **📝 Publications & Projects**: [View Portfolio](https://karmacst.github.io/gawa/)
-- **📄 Academic Profile**: [View Bio](https://karmacst.github.io/gawa/bio.html)
+- **📝 Personal Website**: [View Portfolio](https://karmacst.github.io/gawa/)
+- **📄 Academic Publication**: [View Bio](https://karmacst.github.io/gawa/publication.html)
 
 ---
 
