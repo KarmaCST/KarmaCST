@@ -1,4 +1,4 @@
-<h1 align="center">👋 Namaste, I'm Karma Wangchuk</h1>
+<h1 align="center">👋 Karma Wangchuk</h1>
 <h3 align="center">📚 Lecturer | 🤖 AI/ML Researcher | 🇧🇹 Passionate about Dzongkha NLP</h3>
 <h4 align="center">Information Technology Department, College of Science and Technology, Royal University of Bhutan</h4>
 
